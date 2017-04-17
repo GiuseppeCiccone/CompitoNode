@@ -1,0 +1,15 @@
+{
+  "name": "compito",
+  "version": "1.0.0",
+  "description": "compito di informatica",
+  "main": "node.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cicco",
+  "license": "MIT"
+}
